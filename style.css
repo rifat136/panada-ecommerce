@@ -1,0 +1,35 @@
+header{
+    margin-bottom: 50px;
+}
+.carousel{
+   
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.carousel-item{
+   
+    background-color: pink;
+}
+#caro-2{
+    background-color: aqua;
+}
+#caro-3{
+    background-color:lightgreen;
+}
+
+.subscribe{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-color: lightskyblue;
+    height: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+}
+
+.footer{
+    background-color: lightgrey;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+}

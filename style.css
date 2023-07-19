@@ -10,6 +10,17 @@ header{
    
     background-color: pink;
 }
+.caro-btn{
+    background-color: orangered;
+    font-weight: 200px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
 #caro-2{
     background-color: aqua;
 }
